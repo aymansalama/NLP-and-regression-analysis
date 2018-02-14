@@ -1,0 +1,207 @@
+
+Week 1,2    Product_Code
+379      b'P381'
+680      b'P685'
+606      b'P609'
+679      b'P684'
+289      b'P290'
+
+Week 3 , 4
+    Product_Code
+810      b'P819'
+685      b'P690'
+286      b'P287'
+282      b'P283'
+281      b'P282'
+
+Week 5 , 6
+    Product_Code
+810      b'P819'
+257      b'P258'
+255      b'P256'
+252      b'P253'
+251      b'P252'
+
+Week 7 , 8
+    Product_Code
+810      b'P819'
+273      b'P274'
+272      b'P273'
+271      b'P272'
+663      b'P668'
+
+Week 9 , 10
+    Product_Code
+810      b'P819'
+462      b'P465'
+257      b'P258'
+692      b'P697'
+460      b'P463'
+
+Week 11 , 12
+    Product_Code
+810      b'P819'
+242      b'P243'
+241      b'P242'
+240      b'P241'
+239      b'P240'
+
+Week 13 , 14
+    Product_Code
+810      b'P819'
+257      b'P258'
+256      b'P257'
+255      b'P256'
+253      b'P254'
+
+Week 15 , 16
+    Product_Code
+810      b'P819'
+242      b'P243'
+238      b'P239'
+236      b'P237'
+234      b'P235'
+
+Week 17 , 18
+    Product_Code
+810      b'P819'
+257      b'P258'
+256      b'P257'
+255      b'P256'
+253      b'P254'
+
+Week 19 , 20
+    Product_Code
+248      b'P249'
+417      b'P420'
+237      b'P238'
+416      b'P419'
+694      b'P699'
+
+Week 21 , 22
+    Product_Code
+810      b'P819'
+275      b'P276'
+695      b'P700'
+274      b'P275'
+273      b'P274'
+
+Week 23 , 24
+    Product_Code
+252      b'P253'
+451      b'P454'
+643      b'P647'
+644      b'P649'
+662      b'P667'
+
+Week 25 , 26
+    Product_Code
+810      b'P819'
+651      b'P656'
+650      b'P655'
+649      b'P654'
+645      b'P650'
+
+Week 27 , 28
+    Product_Code
+345      b'P346'
+714      b'P721'
+713      b'P720'
+712      b'P719'
+711      b'P718'
+
+Week 29 , 30
+    Product_Code
+810      b'P819'
+243      b'P244'
+242      b'P243'
+241      b'P242'
+240      b'P241'
+
+Week 31 , 32
+    Product_Code
+810      b'P819'
+708      b'P715'
+648      b'P653'
+706      b'P713'
+705      b'P712'
+
+Week 33 , 34
+    Product_Code
+470      b'P473'
+720      b'P729'
+719      b'P728'
+663      b'P668'
+664      b'P669'
+
+Week 35 , 36
+    Product_Code
+585      b'P588'
+707      b'P714'
+705      b'P712'
+703      b'P708'
+383      b'P386'
+
+Week 37 , 38
+    Product_Code
+244      b'P245'
+676      b'P681'
+675      b'P680'
+674      b'P679'
+673      b'P678'
+
+Week 39 , 40
+    Product_Code
+603      b'P606'
+348      b'P349'
+345      b'P346'
+716      b'P724'
+715      b'P722'
+
+Week 41 , 42
+    Product_Code
+350      b'P351'
+277      b'P278'
+716      b'P724'
+715      b'P722'
+714      b'P721'
+
+Week 43 , 44
+    Product_Code
+810      b'P819'
+259      b'P260'
+258      b'P259'
+257      b'P258'
+686      b'P691'
+
+Week 45 , 46
+    Product_Code
+810      b'P819'
+650      b'P655'
+704      b'P711'
+703      b'P708'
+351      b'P352'
+
+Week 47 , 48
+    Product_Code
+810      b'P819'
+259      b'P260'
+258      b'P259'
+716      b'P724'
+257      b'P258'
+
+Week 49 , 50
+    Product_Code
+810      b'P819'
+644      b'P649'
+643      b'P647'
+641      b'P644'
+640      b'P643'
+
+Week 51 , 52
+    Product_Code
+242      b'P243'
+232      b'P233'
+706      b'P713'
+707      b'P714'
+708      b'P715'

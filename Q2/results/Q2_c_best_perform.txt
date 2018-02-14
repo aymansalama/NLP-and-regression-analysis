@@ -1,0 +1,3 @@
+ID                  406
+Product_Code       P409
+Mean            42.6923
