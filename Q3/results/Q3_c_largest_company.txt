@@ -1,0 +1,62 @@
+Mentor Graphics Development Services CJSC                                                                                               83
+ArmenTel CJSC                                                                                                                           78
+Orange Armenia CJSC                                                                                                                     68
+"Coca-Cola Hellenic Bottling Company Armenia" CJSC                                                                                      62
+Career Center NGO                                                                                                                       59
+World Vision Armenia                                                                                                                    56
+Joomag AM LLC                                                                                                                           55
+BetArchitect LLC                                                                                                                        53
+Questrade International Inc., Armenian Branch                                                                                           51
+Converse Bank CJSC                                                                                                                      48
+Energize Global Services CJSC                                                                                                           38
+Tumo Center for Creative Technologies                                                                                                   38
+K-Telecom CJSC (VivaCell-MTS)                                                                                                           34
+PicsArt LLC                                                                                                                             33
+IUNetworks LLC                                                                                                                          32
+HSBC Bank Armenia CJSC                                                                                                                  32
+Zeppelin Armenia LLC                                                                                                                    30
+EPAM Systems, Inc.                                                                                                                      29
+"Kamurj" UCO CJSC                                                                                                                       27
+Monitis CJSC                                                                                                                            27
+Career Center Partner Company                                                                                                           27
+Ameriabank CJSC                                                                                                                         26
+OSCE Office in Yerevan                                                                                                                  26
+Sourcio CJSC                                                                                                                            23
+SystroTech LLC                                                                                                                          23
+IDeA Foundation                                                                                                                         22
+Ardshininvestbank CJSC                                                                                                                  21
+Ucom LLC                                                                                                                                21
+VOLO LLC                                                                                                                                20
+"Aregak" Universal Credit Organization CJSC                                                                                             20
+                                                                                                                                        ..
+Ilex Law Firm LLC                                                                                                                        1
+Concern-Dialog CJSC                                                                                                                      1
+Softline International LLC                                                                                                               1
+Delegation of the European Union to Armenia                                                                                              1
+Bazillion Beings, Inc.                                                                                                                   1
+Deutsche Gesellschaft fuer internationale Zusammenarbeit GIZ GmbH,\r\nCountry Office Yerevan                                             1
+The Caucasus Research Resource Center-Armenia Foundation (CRRC-Armenia)                                                                  1
+Consel Ltd                                                                                                                               1
+Achajour Natural Food LLC                                                                                                                1
+"DarmanTest Laboratories" LLC                                                                                                            1
+Representative Office of JSC Grindeks in Armenia                                                                                         1
+MMA Armenia LLC                                                                                                                          1
+Eurofootball Ltd                                                                                                                         1
+Online Plus LLC                                                                                                                          1
+Magic Sale LLC                                                                                                                           1
+"Europe in Law Association"  Human Rights Protection NGO                                                                                 1
+Domino Production LLC                                                                                                                    1
+Caucasus Nature Fund                                                                                                                     1
+Swiss Agency for Development and Cooperation (SDC), represented by the\r\nSwiss Cooperation Office for the South Caucasus in Armenia     1
+MAF Carrefour Armenia                                                                                                                    1
+Hyur Service LLC                                                                                                                         1
+International Organization for Migration                                                                                                 1
+Agribusiness Teaching Center (ATC)                                                                                                       1
+SocialObjects Software LLC                                                                                                               1
+"BIVAC Armenia" CJSC                                                                                                                     1
+Karakhanyan and Partners Law Office                                                                                                      1
+BIVAC Armenia CJSC                                                                                                                       1
+Technology Management Center of Yerevan City CJSC                                                                                        1
+Moveo Technologies                                                                                                                       1
+Majid Al Futtaim Hypermarkets Carrefour Armenia                                                                                          1
+Name: Company, Length: 1046, dtype: int64
